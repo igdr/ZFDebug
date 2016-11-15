@@ -3,8 +3,6 @@ ZFDebug is a plugin for the Zend Framework for PHP5, providing useful debug info
 
 Time spent, memory usage and number of database queries are presented at a glance. Additionally, included files, a listing of available view variables and the complete SQL command of all queries are shown in separate panels:
 
-![](http://jokke.dk/media/2011-zfdebug.png)
-
 The available plugins at this point are:
 
   * Cache: Information on Zend_Cache, APC and Zend OPcache (for PHP 5.5).
