@@ -5,25 +5,13 @@
     "license": "BSD-3-Clause",
     "autoload": {
         "classmap": [
-            "library/"
+            "src/"
         ]
     },
     "include-path": [
-        "library/"
+        "src/"
     ],
     "require": {
         "zendframework/zendframework1": "1.*"
-    },
-    "authors": [
-        {
-            "name": "Joakim Nygård",
-            "homepage": "http://jokke.dk",
-            "role": "Developer"
-        },
-        {
-            "name": "Andreas Pankratz",
-            "homepage": "http://www.bangal.de",
-            "role": "Contributor"
-        }
-    ]
+    }
 }
