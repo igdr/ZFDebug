@@ -386,7 +386,7 @@ class ZFDebug_Controller_Plugin_Debug extends Zend_Controller_Plugin_Abstract
                 #ZFDebug_debug { font: 11px/1.4em Lucida Grande, Lucida Sans Unicode, sans-serif; position:fixed; bottom:5px; left:5px; color:#000; z-index: ' . $this->_options['z-index'] . ';}
                 #ZFDebug_debug ol {margin:10px 0px; padding:0 25px}
                 #ZFDebug_debug li {margin:0 0 10px 0;}
-                #ZFDebug_debug .clickable {cursor:pointer}
+                #ZFDebug_debug .clickable {cursor:pointer; margin-left:0 !important;}
                 #ZFDebug_toggler { font-weight:bold; background:#BFBFBF; }
                 .ZFDebug_span { border: 1px solid #999; border-right:0px; background:#DFDFDF; padding: 5px 5px; }
                 .ZFDebug_last { border: 1px solid #999; }
